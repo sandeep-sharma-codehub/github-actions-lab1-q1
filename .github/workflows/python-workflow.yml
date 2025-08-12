@@ -1,7 +1,9 @@
+#test
 name: CI
 
 on:
-  push:  
+  push:
+
 
 jobs:
   build:
